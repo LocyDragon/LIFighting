@@ -1,0 +1,8 @@
+name: LIFighting
+main: com.locydragon.lif.LiFighting
+version: 1.0.0
+author: LocyDragon
+depend: [LILib]
+softdepend: [Citizens,Residence,PlaceholderAPI]
+commands:
+  lif:
